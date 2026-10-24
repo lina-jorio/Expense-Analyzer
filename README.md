@@ -53,6 +53,4 @@ I debated using a pure machine-learning approach, but with no labelled data at t
 
 Support for multiple bank accounts, budgets with alerts, export to CSV, recurring-payment detection, and a confusion matrix to measure the classifier on real labelled data.
 
-## AI disclosure
 
-As permitted for the final project, I used an AI assistant to help write and debug this project. I reviewed, ran and tested the code, and I can explain every part of it.
